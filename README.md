@@ -8,9 +8,10 @@ JaVelo employs **the  Astar algorithm for route calculations** and harnesses the
 
 ## Demonstration 
 
-<img width="1065" alt="Screenshot 2023-10-20 at 12 53 54" src="https://github.com/noemacee/JAVELO/assets/100673718/b4281062-0a5f-4320-be23-07900ae35974">
-<img width="1065" alt="Screenshot 2023-10-20 at 12 54 24" src="https://github.com/noemacee/JAVELO/assets/100673718/fb0e06a5-2d6e-4611-8874-bece3d1d9659">
-<img width="1065" alt="Screenshot 2023-10-20 at 12 54 38" src="https://github.com/noemacee/JAVELO/assets/100673718/e7c4a31a-936f-4cb4-a240-89865079d06e">
+<img width="1065" alt="Image 1" src="https://github.com/noemacee/JAVELO/assets/100673718/2eafd287-d314-436c-97a6-5873493c0c76">
+<img width="1065" alt="Image 2" src="https://github.com/noemacee/JAVELO/assets/100673718/33f426af-28c1-43e5-853b-a58800dbd033">
+<img width="1065" alt="Image 3" src="https://github.com/noemacee/JAVELO/assets/100673718/c8d52bb7-e467-4012-9125-ab28ed83d75e">
+
 
 ## Contributions 
 
