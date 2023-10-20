@@ -4,7 +4,7 @@ This project was realised in between Feb 2022 – Jun 2022, uploaded my version 
 
 **Javelo** is a Java application specially crafted to enrich your cycling experience in Switzerland. 
 Just like Google Maps guides you on the road, JaVelo serves as your trusted cycling companion. It enables you to **visualize cycling routes, gradients, and descents in Switzerland**, enhancing your cycling adventures with convenience and organization. 
-JaVelo employs the **A* algorithm for route calculations** and harnesses the power of **JavaFX and OpenStreetMap** to deliver a user-friendly experience.
+JaVelo employs the ** A* algorithm for route calculations** and harnesses the power of **JavaFX and OpenStreetMap** to deliver a user-friendly experience.
 
 ## Demonstration 
 
